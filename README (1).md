@@ -3,6 +3,8 @@
 # 🛒 E-Commerce Analytics
 ### SQL + Power BI Portfolio Project
 
+ 🔗 [View Live Dashboard]( https://app.powerbi.com/view?r=eyJrIjoiMmIwYTFlNDktMzZkMy00MmYxLWJjZjYtZTI4YjA4MTViZjk3IiwidCI6ImE3Y2M2NzM5LWQ2NWMtNDY1Mi1iY2FmLWZhNmQwMGUwMzI4YSJ9&pageName=27e1999ec83b262e15ed )
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge)
